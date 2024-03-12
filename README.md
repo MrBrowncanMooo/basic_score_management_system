@@ -1,0 +1,1 @@
+# basic score management system
